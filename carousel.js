@@ -29,7 +29,7 @@ function zueiro() {
   el = document.getElementById('txt2').textContent="Vida de puta aí vou eu hehehe"
 }
 
-function teAmo() {
+function sim() {
   let el = document.getElementById('telao');
   el.style.cssText =
           "background-image: url(https://p0.pikist.com/photos/629/596/moon-couple-night-love-woman-romantic-silhouette-sky-honeymoon.jpg)"

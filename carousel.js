@@ -2,7 +2,7 @@ function mudar() {
   let el = document.getElementById('butao');
   // alterando uma propriedade
   lista = [180, 200, 150, 550, 400, 580, 500]
-  lista2 = [170, 387, 500, 700, 300, 800, 731]
+  lista2 = [170, 387, 500, 700, 300, 756, 731]
 
   num = Math.floor(Math.random() * 6)
   num2 = Math.floor(Math.random() * 6)
